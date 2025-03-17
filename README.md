@@ -92,6 +92,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [JSZip](https://stuk.github.io/jszip/) for KMZ file generation
 - [FileSaver.js](https://github.com/eligrey/FileSaver.js/) for client-side file saving
 
----
+## Developer
 
-Created by Christopher Pickett | 2025
+[Created by Christopher Pickett - 2025]([https://www.linkedin.com/in/christopher-p-a4908979/])
