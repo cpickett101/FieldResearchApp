@@ -13,8 +13,7 @@ An interactive web application designed for field researchers, scientists, and o
 - **Auto-play Feature**: Automatically cycle through images
 - **Marker Clustering**: Efficiently visualize many research sites
 - **Google Earth Integration**: Export data as KMZ files to view in Google Earth
-- **Mobile Responsive**: Works on tablets and phones as well as desktop computers
-
+  
 ## Use Cases
 
 - **Field Research**: Document sample sites, specimens, and environmental conditions
