@@ -2,6 +2,8 @@
 
 An interactive web application designed for field researchers, scientists, and outdoor enthusiasts to visualize, organize, and share location-based image collections and research data.
 
+![Flashcard App Screenshot](https://raw.githubusercontent.com/cpickett101/FieldResearchApp/main/FieldResarchApp.png)
+
 ## Features
 
 - **Interactive Map**: View your research sites on an OpenStreetMap base map
