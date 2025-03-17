@@ -10,7 +10,6 @@ An interactive web application designed for field researchers, scientists, and o
 - **GPS Extraction**: Automatically extracts GPS coordinates from image EXIF data
 - **Image Slideshow**: Browse through images from each research location
 - **Drag-and-resize Interface**: Adjustable split-screen layout
-- **Fullscreen Mode**: Enlarge images for detailed viewing
 - **Auto-play Feature**: Automatically cycle through images
 - **Marker Clustering**: Efficiently visualize many research sites
 - **Google Earth Integration**: Export data as KMZ files to view in Google Earth
